@@ -2,4 +2,5 @@
 Frontend code for the web client.
 
 ### Build Status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7e9c983e-b5c1-45b8-ad4f-e858db8ca58e/deploy-status)](https://app.netlify.com/sites/broodt-nu/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f0a5573-cd33-4ffd-80aa-6796f9098bc6/deploy-status)](https://app.netlify.com/sites/broodtnu/deploys)
+
