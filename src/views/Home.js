@@ -11,6 +11,9 @@ class Home extends Component {
                     perspiciatis minus quibusdam dolorem ratione sapiente amet
                     quia quis voluptates, earum culpa odio.
                 </p>
+                <p>
+                    TestTest
+                </p>
             </main>
         );
     }
